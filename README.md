@@ -1,4 +1,4 @@
-﻿# MCP Gestor de Archivos
+﻿# DedcodeMCP Gestor de Archivos
 
 Servidor MCP (Model Context Protocol) para gestión de archivos en el escritorio.
 
